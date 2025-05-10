@@ -8,14 +8,14 @@ This Blender project showcases a stylized, abstract physics setup with vivid col
 
 ## 📷 Preview Image
 
-![Scene Preview](![Image](https://github.com/user-attachments/assets/781a88c0-d581-4eb9-a440-b01bdf114d74))
+> https://github.com/user-attachments/assets/781a88c0-d581-4eb9-a440-b01bdf114d74
 
 ---
 
 ## 🎞️ Video Preview
 
 <!-- Replace the YouTube link below with your actual video link or local video file -->
-[![Watch the video](https://github.com/user-attachments/assets/86a86384-23c2-4333-8479-967ac82d60ce)
+> https://github.com/user-attachments/assets/86a86384-23c2-4333-8479-967ac82d60ce
 
 ---
 
